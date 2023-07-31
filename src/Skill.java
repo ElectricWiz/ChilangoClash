@@ -1,2 +1,2 @@
-public class Skills {
+public class Skill {
 }
